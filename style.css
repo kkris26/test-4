@@ -938,7 +938,6 @@ textarea {
   /* home start */
   .home .container {
     display: block;
-    background-color: var(--main-color);
     margin-top: 200px;
     border-radius: 20px;
     padding: 60px 50px;
@@ -1171,7 +1170,6 @@ textarea {
   .home .container {
     width: 100%;
     display: block;
-    background-color: var(--main-color);
     margin-top: 120px;
     border-radius: 0px;
     padding: 40px 30px;
