@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 :root {
   --main-color: #1e6f5c;
   --btn-color: #e6dd3b;
@@ -1316,7 +1317,7 @@ textarea {
     height: 100%;
     margin-bottom: 200px;
   }
-
+  }
   .service .title h1 {
     font-size: 12px;
     font-family: var(--heading-font);
@@ -1888,3 +1889,4 @@ textarea {
 /* bawah */
 /* mobile */
 /* responsive */
+>>>>>>> 2bd56b6ec0e489eede446a9b01c5bbd07d2d51be
